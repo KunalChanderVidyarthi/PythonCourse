@@ -1,7 +1,7 @@
 # PythonCourse
 Python Programming From the Beginning
 
-Repository content:
+Repository content:<br>
     Datatypes <br>
     Methods
     
