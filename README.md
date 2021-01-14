@@ -2,7 +2,7 @@
 Python Programming From the Beginning
 
 Repository content:
-    Datatypes 
+    Datatypes <br>
     Methods
     
     
